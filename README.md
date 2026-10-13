@@ -123,4 +123,4 @@ pip install numpy pandas matplotlib seaborn openpyxl jupyter
 ## 👩‍💻 Author
 **Habiba Mostafa**: Business Information Systems graduate, aspiring Junior Data Analyst / BI Analyst.
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/habiba-mostafa-144043327/)) · [GitHub](https://github.com/habibamostafa2235)
+🔗 [LinkedIn](https://www.linkedin.com/in/habiba-mostafa-144043327/) · [GitHub](https://github.com/habibamostafa2235)
